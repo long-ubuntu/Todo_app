@@ -1,0 +1,25 @@
+.list-todo{
+    margin: 0 auto;
+    width: 600px;
+    text-align: center;
+    border: 1px solid black;
+    padding: 10px;
+    font-size: 18px;
+    font-family: sans-serif;
+}
+
+.list-todo__title {
+    color: green;
+    font-size: 40px;
+}
+
+.list-todo__header {
+    margin-top: 10px;
+}
+
+.list-todo__tasks {
+    display: flex;
+    gap: 20px;
+    margin-top: 10px;
+    justify-content: center;
+}
